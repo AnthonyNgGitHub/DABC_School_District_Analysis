@@ -1,5 +1,5 @@
 # DABC_School_District_Analysis
-To perform detailed analysis on academic performance for the school district to gain insights on future budgeting policy. An analysis was previously performed (v1) prior to the current analysis (v2). However, due to academic dishonesty regarding reading & math grades for Thomas High School ninth graders, the analysis needs to be reperformed based on cleaned data with the abovementioned grades disregarded by replacing the scores with NaNs. The purpose of thie analysis is to compare the results with and without the abovementioned grades.
+To perform detailed analysis on academic performance for the school district to gain insights on future budgeting policy. An analysis was previously performed (v1; PyCitySchools.ipynb) prior to the current analysis (v2; PyCitySchools_Challenge.ipynb). However, due to academic dishonesty regarding reading & math grades for Thomas High School ninth graders, the analysis needs to be reperformed based on cleaned data with the abovementioned grades disregarded by replacing the scores with NaNs. The purpose of thie analysis is to compare the results with and without the abovementioned grades.
 
 The analysis will have a number of objectives as illustrated below:
 
