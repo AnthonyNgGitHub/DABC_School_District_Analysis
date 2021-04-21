@@ -21,28 +21,28 @@ The analysis will have a number of objectives as illustrated below:
 As shown in below screenshots, excluding the reading & math grades for Thomas High School ninth graders only had a minor effect on the district's math passing percentage, reading passing percentage, and overall passing percentage, which were all reduced by less than 1 percentage point.
 
 - District Summary v1
-<img src="District_Summary_v1.PNG"></img>
+<img src="images/District_Summary_v1.PNG"></img>
 
 - District Summary v2
-<img src="District_Summary_v2.PNG"></img>
+<img src="images/District_Summary_v2.PNG"></img>
 
 ## Impact on Per School Summary
 As shown in below screenshots, excluding the reading & math grades for Thomas High School ninth graders had no impact on any other schools besides Thomas High School. With regards to the results for Thomas High School in v2, Average Math Score is slightly higher while Average Reading Score is slightly lower. Math passing percentage, reading passing percentage, and overall passing percentage are all lower in v2, albeit a small reduction in comparison to v2.
 
 - Per School Summary v1
-<img src="Per_School_Summary_v1.PNG"></img>
+<img src="images/Per_School_Summary_v1.PNG"></img>
 
 - Per School Summary v2
-<img src="Per_School_Summary_v2.PNG"></img>
+<img src="images/Per_School_Summary_v2.PNG"></img>
 
 ## Impact on Thomas High School's performance relative to other schools
 As illustrated in the above screenshots, excluding the reading & math grades for Thomas High School ninth graders had a minimal impact on Thomas High School's overall absolute performance. Therefore, it had no impact on its relative performance to other schools. The below screenshots present the top 5 schools in v1 and v2, where Thomas High School is ranked as the 2nd best performing school in the district in both analyses.
 
 - Top 5 Schools v1
-<img src="Top_5_Schools_v1.PNG"></img>
+<img src="images/Top_5_Schools_v1.PNG"></img>
 
 - Top 5 Schools v2
-<img src="Top_5_Schools_v2.PNG"></img>
+<img src="images/Top_5_Schools_v2.PNG"></img>
 
 
 ## Impact on Math and Reading scores by grade
@@ -50,19 +50,19 @@ There is no impact on the summary of math and reading scores by grade except for
 
 - Math Scores by Grade v1
 
-<img src="Math_Scores_by_Grade_v1.PNG"></img>
+<img src="images/Math_Scores_by_Grade_v1.PNG"></img>
 
 - Math Scores by Grade v2
 
-<img src="Math_Scores_by_Grade_v2.PNG"></img>
+<img src="images/Math_Scores_by_Grade_v2.PNG"></img>
 
 - Reading Scores by Grade v1
 
-<img src="Reading_Scores_by_Grade_v1.PNG"></img>
+<img src="images/Reading_Scores_by_Grade_v1.PNG"></img>
 
 - Reading Scores by Grade v2
 
-<img src="Reading_Scores_by_Grade_v2.PNG"></img>
+<img src="images/Reading_Scores_by_Grade_v2.PNG"></img>
 
 
 ## Impact on performance by school spending per student, by school size, and by school type
@@ -71,27 +71,27 @@ There is no impact on the summary of performance by school spending per student,
 
 - Per School Spending Per Student v1
 
-<img src="PerSchool_Spending_PerStudent_v1.PNG"></img>
+<img src="images/PerSchool_Spending_PerStudent_v1.PNG"></img>
 
 - Per School Spending Per Student v2
 
-<img src="PerSchool_Spending_PerStudent_v2.PNG"></img>
+<img src="images/PerSchool_Spending_PerStudent_v2.PNG"></img>
 
 - By School Size v1
 
-<img src="By_School_Size_v1.PNG"></img>
+<img src="images/By_School_Size_v1.PNG"></img>
 
 - By School Size v2
 
-<img src="By_School_Size_v2.PNG"></img>
+<img src="images/By_School_Size_v2.PNG"></img>
 
 - By School Type v1
 
-<img src="By_School_Type_v1.PNG"></img>
+<img src="images/By_School_Type_v1.PNG"></img>
 
 - By School Size v2
 
-<img src="By_School_Type_v2.PNG"></img>
+<img src="images/By_School_Type_v2.PNG"></img>
 
 
 # Summary
